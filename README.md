@@ -6,5 +6,5 @@
 
 <p>*All of modules I try to imitate scikit-learn API as possible.</p>
 
-<h2> Running the demo <h2>
+<h2> Running the demo </h2>
 <p>Prog1.py do some experiment and analysis on different dataset. And Write the report in pdf file.</p>

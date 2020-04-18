@@ -8,3 +8,6 @@
 
 <h2> Running the demo </h2>
 <p>Prog1.py do some experiment and analysis on different dataset. And Write the report in pdf file.</p>
+
+<h2>References</h2>
+[1]Xavier Bourret Sicotte "Maximum Likelihood Estimator: Multivariate Gaussian Distribution", from <a href="https://xavierbourretsicotte.github.io/MLE_Multivariate_Gaussian.html">https://xavierbourretsicotte.github.io/MLE_Multivariate_Gaussian.html</a>
